@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Dmatstuff::Application.config.secret_key_base = '41696f4f2ec8596ac4da0f1075bd5607e3284cde00dd9eb1ab9c77812b3fc4cf795d619e3c1da670f21ffb8d0b9da46f42b18e43a1d525cf85707d3b9dc09965'
+Pinteresting::Application.config.secret_key_base = '46f60b92265fdcbe7eb2e55a2f8a39a8ec3dd601f9c114b34eae7b77b997dd1bfa3a2047092504e98d38345dd71df0a4ead84c9289b55a35b8fca82719a49f96'
